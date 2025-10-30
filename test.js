@@ -4,7 +4,7 @@
 console.log("Hello, worlgghit d!");
 
 // Log a warning message
-console.warn("This is a warning!");
+console.warn("This is a wagfsdgrning!");
 
 // Log an error message
 console.error("This is an error!");
