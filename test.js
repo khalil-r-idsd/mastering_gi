@@ -1,7 +1,7 @@
 // Example of using console in JavaScript
 
 // Log a message to the console
-console.log("Hello, worlgghgit d!");
+console.log("Hello, worlgghit d!");
 
 // Log a warning message
 console.warn("This is a warning!");
